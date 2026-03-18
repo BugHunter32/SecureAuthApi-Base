@@ -483,4 +483,3 @@ $RECYCLE.BIN/
 # Custom Security ignores
 .env
 Infrastructure/Docker/secrets/
-appsettings.json
