@@ -483,4 +483,4 @@ $RECYCLE.BIN/
 # Custom Security ignores
 .env
 Infrastructure/Docker/secrets/
-test_api.sh
+appsettings.json
